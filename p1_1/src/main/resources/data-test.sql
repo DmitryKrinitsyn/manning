@@ -1,0 +1,2 @@
+INSERT INTO testdb.public.user_profile(first_name, last_name, email, password) VALUES ( 'John', 'Doe', 'john@email.com','pass1');
+INSERT INTO testdb.public.user_profile(first_name, last_name, email, password) VALUES ('Alice', 'Sprinter', 'alice@email.com', 'pass2');
